@@ -47,8 +47,7 @@ A simple web application that allows you to create and manage your to-do list.
    > ## Checkout the Website [Web Application](https://sanketpareta.github.io/Meal-web-app/)
    <br/>
    
-   ## 💻 Screens
-   <br/>
+
    
    
    
