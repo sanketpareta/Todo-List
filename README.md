@@ -7,7 +7,7 @@
 
 <p align="center">
 
- # MEAL APP
+ # TODO LIST
  
 </p>
 
@@ -50,7 +50,7 @@ A simple web application that allows you to create and manage your to-do list.
    ## 💻 Screens
    <br/>
    
-   ![image](https://user-images.githubusercontent.com/86460997/214385273-866030c2-bea7-43e1-b1bc-29b0f12e20ed.png)
+   
    
    <br/>
    
