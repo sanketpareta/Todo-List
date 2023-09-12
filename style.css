@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    background-image: url('image/rp2ikG.jpg');
+}
+
+.container {
+    
+    background: linear-gradient(45deg, #3498db, #e74c3c); /* Adjust gradient colors */
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    color: #fff; /* Text color */
+}
+
+/* Updated text color for better visibility */
+h1 {
+    text-align: center;
+    color: #fff; /* Text color */
+}
+
+/* Updated input text color for better visibility */
+input[type="text"] {
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    outline: none;
+    color: #333; /* Text color */
+}
+
+/* Updated button background and text color */
+button {
+    background-color: #0074d9; /* Button background color */
+    color: #fff; /* Button text color */
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3; /* Button background color on hover */
+}
+
+/* Updated task list item text color */
+ul li span {
+    color: #333; /* Text color */
+}
+
+/* Updated delete button background and text color */
+.delete {
+    background-color: #ff4136; /* Button background color */
+    color: #fff; /* Button text color */
+    border: none;
+    border-radius: 3px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.delete:hover {
+    background-color: #d90000; /* Button background color on hover */
+}
